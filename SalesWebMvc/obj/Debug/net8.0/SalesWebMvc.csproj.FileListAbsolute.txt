@@ -260,3 +260,4 @@ D:\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\net8.0\SalesWebMvc.pdb
 D:\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\net8.0\SalesWebMvc.genruntimeconfig.cache
 D:\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\net8.0\ref\SalesWebMvc.dll
 D:\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\net8.0\SalesWebMvc.sourcelink.json
