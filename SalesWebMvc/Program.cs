@@ -1,14 +1,15 @@
 ﻿using SalesWebMvc.Data;
 using SalesWebMvc.Services;
 using Microsoft.EntityFrameworkCore;
-
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
 var builder = WebApplication.CreateBuilder(args);
 
 // Configuração do DbContext
 builder.Services.AddDbContext<SalesWebMvcContext>(options =>
 {
     var connectionString = builder.Configuration.GetConnectionString("SalesWebMvcContext");
-
+  
     // Usar o MySQL com a string de conexão
     options.UseMySql(connectionString,
         new MySqlServerVersion(new Version(8, 0, 41)),
