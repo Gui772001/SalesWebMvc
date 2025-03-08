@@ -26,7 +26,7 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                         <li class="nav-item">
+                        <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Departments" asp-action="Index">Departments</a>
                         </li>
                         <li class="nav-item">
@@ -48,9 +48,21 @@
             &copy; 2025 - SalesWebMvc - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+
     @await RenderSectionAsync("Scripts", required: false)
+
+    <!-- Verifica se há mensagem no TempData e mostra no console do navegador -->
+    @if (TempData["ConsoleMessage"] != null)
+    {
+        <script>
+            // Exibe no console a mensagem do TempData
+            console.log("@TempData["ConsoleMessage"]");
+        </script>
+    }
+
 </body>
 </html>
