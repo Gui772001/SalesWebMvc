@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using SalesWebMvc.Models;
 using SalesWebMvc.Models.ViewModels;
 using SalesWebMvc.Services;
@@ -15,11 +16,13 @@ namespace SalesWebMvc.Controllers
     {
         private readonly SelleService _sellerService;
         private readonly DepartmentService _departmentService;
+        private readonly SalesWebMvcContext _context;
 
-        public SellersController(SelleService sellerService, DepartmentService departmentService)
+        public SellersController(SelleService sellerService, DepartmentService departmentService, SalesWebMvcContext context)
         {
             _sellerService = sellerService;
             _departmentService = departmentService;
+            _context = context;
         }
 
         public async Task<IActionResult> Index()
@@ -34,35 +37,43 @@ namespace SalesWebMvc.Controllers
             var viewModel = new SellerFormViewModel { Departments = departments };
             return View(viewModel);
         }
-
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(Seller seller)
         {
-            if (!ModelState.IsValid)
-            {
-                var departments = await _departmentService.FindAllAsync();
-                var viewModel = new SellerFormViewModel { Seller = seller, Departments = departments };
-                return View(viewModel);
-            }
-            await _sellerService.InsertAsync(seller);
-            return RedirectToAction(nameof(Index));
-        }
+            using var transaction = await _context.Database.BeginTransactionAsync();
 
-        public async Task<IActionResult> Delete(int? id)
-        {
-            if (id == null)
+            try
             {
-                return RedirectToAction(nameof(Error), new { message = "Id not provided" });
-            }
+                // Verificar se o Departamento existe
+                var department = await _context.Department
+                    .FirstOrDefaultAsync(d => d.Id == seller.DepartmentId);
 
-            var obj = await _sellerService.FindByIdAsync(id.Value);
-            if (obj == null)
+                if (department == null)
+                {
+                    ModelState.AddModelError("DepartmentId", "Departamento não encontrado.");
+                    return View(seller);
+                }
+
+                // Associar o departamento ao seller
+                seller.Department = department;
+
+                // Adicionar o Seller
+                _context.Add(seller);
+                await _context.SaveChangesAsync();
+
+                // Confirmar a transação
+                await transaction.CommitAsync();
+
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
             {
-                return RedirectToAction(nameof(Error), new { message = "Id not found" });
+                // Se algo der errado, fazer o rollback da transação
+                await transaction.RollbackAsync();
+                Console.WriteLine($"Error: {ex.Message}");
+                return View(seller);
             }
-
-            return View(obj);
         }
 
         [HttpPost]
@@ -90,49 +101,73 @@ namespace SalesWebMvc.Controllers
             return View(obj);
         }
 
-        public async Task<IActionResult> Edit(int? id)
+        // GET: Edit
+        // GET: Edit
+        public async Task<IActionResult> Edit(int id)
         {
-            if (id == null)
+            var seller = await _context.Seller
+                .Include(s => s.Department) // Inclui o departamento para editar
+                .FirstOrDefaultAsync(s => s.Id == id);
+
+            if (seller == null)
             {
-                return RedirectToAction(nameof(Error), new { message = "Id not provided" });
+                return NotFound();
             }
 
-            var obj = await _sellerService.FindByIdAsync(id.Value);
-            if (obj == null)
+            var departments = await _departmentService.FindAllAsync();
+            var viewModel = new SellerFormViewModel
             {
-                return RedirectToAction(nameof(Error), new { message = "Id not found" });
-            }
+                Seller = seller,
+                Departments = departments
+            };
 
-            List<Department> departments = await _departmentService.FindAllAsync();
-            SellerFormViewModel viewModel = new SellerFormViewModel { Seller = obj, Departments = departments };
             return View(viewModel);
         }
 
+        // POST: Edit
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, Seller seller)
         {
-            if (!ModelState.IsValid)
-            {
-                var departments = await _departmentService.FindAllAsync();
-                var viewModel = new SellerFormViewModel { Seller = seller, Departments = departments };
-                return View(viewModel);
-            }
             if (id != seller.Id)
             {
-                return RedirectToAction(nameof(Error), new { message = "Id mismatch" });
+                return NotFound();
             }
+
+            using var transaction = await _context.Database.BeginTransactionAsync();
+
             try
             {
-                await _sellerService.UpdateAsync(seller);
+                // Verificar se o Departamento existe
+                var department = await _context.Department
+                    .FirstOrDefaultAsync(d => d.Id == seller.DepartmentId);
+
+                if (department == null)
+                {
+                    ModelState.AddModelError("Seller.DepartmentId", "Departamento não encontrado.");
+                    return View(seller); // Retorna a view com erro
+                }
+
+                // Atualizar o departamento associado ao seller
+                seller.Department = department;
+
+                // Atualizar o seller
+                _context.Update(seller);
+                await _context.SaveChangesAsync();
+
+                // Confirmar a transação
+                await transaction.CommitAsync();
+
                 return RedirectToAction(nameof(Index));
             }
-            catch (ApplicationException e)
+            catch (Exception ex)
             {
-                return RedirectToAction(nameof(Error), new { message = e.Message });
+                // Se algo der errado, fazer o rollback da transação
+                await transaction.RollbackAsync();
+                Console.WriteLine($"Error: {ex.Message}");
+                return View(seller); // Retorna a view com o modelo contendo os erros
             }
         }
-
         public IActionResult Error(string message)
         {
             var viewModel = new ErrorViewModel
