@@ -1,11 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
-using SalesWebMvc.Models;
+﻿using SalesWebMvc.Models;
+using Microsoft.EntityFrameworkCore;
 using SalesWebMvc.Services.Exceptions;
 
 namespace SalesWebMvc.Services
 {
     public class SelleService
     {
+
         private readonly SalesWebMvcContext _context;
 
         public SelleService(SalesWebMvcContext context)
@@ -13,48 +14,43 @@ namespace SalesWebMvc.Services
             _context = context;
         }
 
-        public List<Seller> FindAllA()
+        public List<Seller> FindAll()
         {
-            return _context.Seller.ToList(); // Versão síncrona
+            return _context.Seller.ToList();
         }
 
         public void Insert(Seller obj)
         {
             _context.Add(obj);
-            _context.SaveChanges(); // Chamada síncrona
+            _context.SaveChanges();
         }
-
         public Seller FindById(int id)
         {
-            return _context.Seller.Include(obj => obj.Department).FirstOrDefault(obj => obj.Id == id); // Chamada síncrona
+            return _context.Seller.Include(obj => obj.Department).FirstOrDefault(obj => obj.Id == id);
         }
-
         public void Remove(int id)
         {
             var obj = _context.Seller.Find(id);
-            if (obj != null)
-            {
-                _context.Seller.Remove(obj);
-                _context.SaveChanges(); // Chamada síncrona
-            }
+            _context.Seller.Remove(obj);
+            _context.SaveChanges();
         }
-
         public void Uptade(Seller obj)
         {
             if (!_context.Seller.Any(x => x.Id == obj.Id))
             {
                 throw new NotFoundException("Id not found");
             }
-
             try
             {
+
                 _context.Update(obj);
-                _context.SaveChanges(); // Chamada síncrona
+                _context.SaveChanges();
             }
             catch (DbConcurrencyException e)
             {
                 throw new DbConcurrencyException(e.Message);
             }
         }
+
     }
 }
