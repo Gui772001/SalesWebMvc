@@ -18,11 +18,21 @@ builder.Services.AddDbContext<SalesWebMvcContext>(options =>
 
 builder.Services.AddScoped<SeedingService>();
 builder.Services.AddScoped<SelleService>();
+builder.Services.AddScoped<SalesRecordService>();
 builder.Services.AddScoped<DepartmentService>();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+var enUS = new CultureInfo("en-US");
+var localizationOptions = new RequestLocalizationOptions
+{
+    DefaultRequestCulture = new RequestCulture(enUS),
+    SupportedCultures = new List<CultureInfo> { enUS },
+    SupportedUICultures = new List<CultureInfo> { enUS }
+};
+
+app.UseRequestLocalization(localizationOptions);
 
 if (app.Environment.IsDevelopment())
 {

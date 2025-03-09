@@ -16,7 +16,7 @@ namespace SalesWebMvc.Models
     [EmailAddress(ErrorMessage = "Formato de e-mail inválido")]
     public string Email { get; set; }
 
-    [DataType(DataType.Currency)]
+    [DisplayFormat(DataFormatString ="{0:F2}")]
     [Display(Name = "Base Salary")]
     [Range(100.0, 50000.0, ErrorMessage = "{0} deve estar entre {1} e {2}")]
     [Required(ErrorMessage = "O salário é obrigatório")]
