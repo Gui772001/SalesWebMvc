@@ -4,11 +4,6 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using SalesWebMvc.Models;
-using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
-
-
-
 
 #nullable disable
 
@@ -24,9 +19,7 @@ namespace SalesWebMvc.Migrations
                 .HasAnnotation("ProductVersion", "8.0.13")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
-            modelBuilder.Entity<Department>()
-       .Property(d => d.Id)
-       .UseMySqlIdentityColumn();
+            MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
 
             modelBuilder.Entity("SalesWebMvc.Models.Department", b =>
                 {
@@ -107,7 +100,7 @@ namespace SalesWebMvc.Migrations
             modelBuilder.Entity("SalesWebMvc.Models.SalesRecord", b =>
                 {
                     b.HasOne("SalesWebMvc.Models.Seller", "Seller")
-                        .WithMany()
+                        .WithMany("Sales")
                         .HasForeignKey("SellerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -117,18 +110,23 @@ namespace SalesWebMvc.Migrations
 
             modelBuilder.Entity("SalesWebMvc.Models.Seller", b =>
                 {
-                    b.HasOne("SalesWebMvc.Models.Department", "department")
+                    b.HasOne("SalesWebMvc.Models.Department", "Department")
                         .WithMany("Sellers")
                         .HasForeignKey("DepartmentId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("department");
+                    b.Navigation("Department");
                 });
 
             modelBuilder.Entity("SalesWebMvc.Models.Department", b =>
                 {
                     b.Navigation("Sellers");
+                });
+
+            modelBuilder.Entity("SalesWebMvc.Models.Seller", b =>
+                {
+                    b.Navigation("Sales");
                 });
 #pragma warning restore 612, 618
         }

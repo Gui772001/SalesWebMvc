@@ -12,7 +12,7 @@ builder.Services.AddDbContext<SalesWebMvcContext>(options =>
   
     // Usar o MySQL com a string de conexão
     options.UseMySql(connectionString,
-        new MySqlServerVersion(new Version(8, 0, 41)),
+        new MySqlServerVersion(new Version(8, 0, 13)),
         mysqlOptions => mysqlOptions.MigrationsAssembly("SalesWebMvc"));
 });
 

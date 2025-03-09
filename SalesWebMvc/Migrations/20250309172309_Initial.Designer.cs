@@ -5,16 +5,14 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using SalesWebMvc.Data;
-using SalesWebMvc.Models;
 
 #nullable disable
 
 namespace SalesWebMvc.Migrations
 {
     [DbContext(typeof(SalesWebMvcContext))]
-    [Migration("20250305162719_OtherEntities")]
-    partial class OtherEntities
+    [Migration("20250309172309_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -24,9 +22,7 @@ namespace SalesWebMvc.Migrations
                 .HasAnnotation("ProductVersion", "8.0.13")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
-            modelBuilder.Entity<Department>()
-       .Property(d => d.Id)
-       .UseMySqlIdentityColumn();
+            MySqlModelBuilderExtensions.AutoIncrementColumns(modelBuilder);
 
             modelBuilder.Entity("SalesWebMvc.Models.Department", b =>
                 {
@@ -59,17 +55,17 @@ namespace SalesWebMvc.Migrations
                     b.Property<DateTime>("Date")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<int>("sellerId")
+                    b.Property<int>("SellerId")
                         .HasColumnType("int");
 
-                    b.Property<int>("status")
+                    b.Property<int>("Status")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("sellerId");
+                    b.HasIndex("SellerId");
 
-                    b.ToTable("SalesRecords");
+                    b.ToTable("SalesRecord");
                 });
 
             modelBuilder.Entity("SalesWebMvc.Models.Seller", b =>
@@ -86,6 +82,9 @@ namespace SalesWebMvc.Migrations
                     b.Property<DateTime>("BirthDate")
                         .HasColumnType("datetime(6)");
 
+                    b.Property<int>("DepartmentId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("longtext");
@@ -94,41 +93,43 @@ namespace SalesWebMvc.Migrations
                         .IsRequired()
                         .HasColumnType("longtext");
 
-                    b.Property<int>("departmentId")
-                        .HasColumnType("int");
-
                     b.HasKey("Id");
 
-                    b.HasIndex("departmentId");
+                    b.HasIndex("DepartmentId");
 
                     b.ToTable("Seller");
                 });
 
             modelBuilder.Entity("SalesWebMvc.Models.SalesRecord", b =>
                 {
-                    b.HasOne("SalesWebMvc.Models.Seller", "seller")
-                        .WithMany()
-                        .HasForeignKey("sellerId")
+                    b.HasOne("SalesWebMvc.Models.Seller", "Seller")
+                        .WithMany("Sales")
+                        .HasForeignKey("SellerId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("seller");
+                    b.Navigation("Seller");
                 });
 
             modelBuilder.Entity("SalesWebMvc.Models.Seller", b =>
                 {
-                    b.HasOne("SalesWebMvc.Models.Department", "department")
+                    b.HasOne("SalesWebMvc.Models.Department", "Department")
                         .WithMany("Sellers")
-                        .HasForeignKey("departmentId")
+                        .HasForeignKey("DepartmentId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("department");
+                    b.Navigation("Department");
                 });
 
             modelBuilder.Entity("SalesWebMvc.Models.Department", b =>
                 {
                     b.Navigation("Sellers");
+                });
+
+            modelBuilder.Entity("SalesWebMvc.Models.Seller", b =>
+                {
+                    b.Navigation("Sales");
                 });
 #pragma warning restore 612, 618
         }

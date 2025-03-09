@@ -19,7 +19,7 @@ public class SalesWebMvcContext : DbContext
             var connectionString = "server=localhost;userid=root;password=123456789;database=saleswebmvcappdb";
             optionsBuilder.UseMySql(
                 connectionString,
-                new MySqlServerVersion(new Version(8, 0, 31)), // Ajuste conforme a versão do seu MySQL
+                new MySqlServerVersion(new Version(8, 0, 13)), // Ajuste conforme a versão do seu MySQL
                 options => options.EnableRetryOnFailure()
             );
         }
