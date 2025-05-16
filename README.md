@@ -1,4 +1,4 @@
-Sistema web desenvolvido em **ASP.NET Core** para gerenciar vendedores e departamentos, com funcionalidades completas para cadastro, edição, exclusão e visualização de vendas.
+Um Sistema web desenvolvido com **ASP.NET Core MVC**, que implementa uma **API com operações CRUD** para gerenciamento de vendedores, departamentos e vendas.
 
 ## Funcionalidades
 
