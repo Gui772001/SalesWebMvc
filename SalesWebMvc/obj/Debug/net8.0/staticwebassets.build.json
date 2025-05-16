@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MIvXsqhTBA9dUfkrl6zGIXpLBN4YWHQKh07ciY6Fzzs=",
+  "Hash": "VQ2Mwye+3uPohI4mkbaKpelO4FtyjpU/gXPETq7ekWw=",
   "Source": "SalesWebMvc",
   "BasePath": "_content/SalesWebMvc",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SalesWebMvc\\wwwroot",
       "Source": "SalesWebMvc",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesWebMvc.styles.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesWebMvc.styles.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "SalesWebMvc#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "ttoJStrdNfzUSAfX7YFHbAyCR/4DvmSPK1awTWyMR8E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesWebMvc.styles.css"
+      "OriginalItemSpec": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesWebMvc.styles.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesWebMvc.bundle.scp.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesWebMvc.bundle.scp.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "SalesWebMvc#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "ttoJStrdNfzUSAfX7YFHbAyCR/4DvmSPK1awTWyMR8E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesWebMvc.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesWebMvc.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\css\\site.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\favicon.ico",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\js\\site.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SalesWebMvc",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
+      "ContentRoot": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\",
       "BasePath": "_content/SalesWebMvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1175,7 +1175,7 @@
   "Endpoints": [
     {
       "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1220,7 +1220,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1257,7 +1257,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1302,7 +1302,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1339,7 +1339,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1376,7 +1376,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1421,7 +1421,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1458,7 +1458,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.n8shkqn6yv.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1503,7 +1503,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1540,7 +1540,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1577,7 +1577,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1622,7 +1622,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.5p029spbuu.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1667,7 +1667,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1704,7 +1704,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1749,7 +1749,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1786,7 +1786,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.nakmwdwsxp.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1831,7 +1831,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1868,7 +1868,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1913,7 +1913,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1950,7 +1950,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.e6q6xbwqzk.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1995,7 +1995,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2032,7 +2032,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2069,7 +2069,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2114,7 +2114,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.dy6jgresuo.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2159,7 +2159,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2196,7 +2196,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2241,7 +2241,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2278,7 +2278,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2315,7 +2315,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2352,7 +2352,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2397,7 +2397,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.z7kmom2977.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2442,7 +2442,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.mk8rdyw69w.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2487,7 +2487,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.97yrjpyf9r.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2532,7 +2532,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2569,7 +2569,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2614,7 +2614,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2651,7 +2651,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2688,7 +2688,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2725,7 +2725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2770,7 +2770,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.y53cy5s2zj.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2815,7 +2815,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2852,7 +2852,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2897,7 +2897,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2934,7 +2934,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.2yn17lgxub.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2979,7 +2979,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3016,7 +3016,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3053,7 +3053,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3098,7 +3098,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3135,7 +3135,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3180,7 +3180,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3217,7 +3217,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3254,7 +3254,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3299,7 +3299,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3336,7 +3336,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.ik6i2hrs65.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3381,7 +3381,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.ophe14yye5.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3426,7 +3426,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.z9shlbduue.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3471,7 +3471,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.1piudyfv7h.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3516,7 +3516,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.f6zq8v6eb3.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3561,7 +3561,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3598,7 +3598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3643,7 +3643,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3680,7 +3680,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.89qbw8ngem.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3725,7 +3725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3762,7 +3762,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3807,7 +3807,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3844,7 +3844,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3881,7 +3881,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3926,7 +3926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3963,7 +3963,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.jqwzsa9uv6.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4008,7 +4008,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4045,7 +4045,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4082,7 +4082,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4127,7 +4127,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.n5w6o92d9r.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4172,7 +4172,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4209,7 +4209,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4254,7 +4254,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4291,7 +4291,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.4908xmbfjr.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4336,7 +4336,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4373,7 +4373,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4410,7 +4410,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4455,7 +4455,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4492,7 +4492,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4537,7 +4537,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.7s2n0ol71w.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4582,7 +4582,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4619,7 +4619,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4664,7 +4664,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.ehgnz7f14e.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4709,7 +4709,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4746,7 +4746,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4783,7 +4783,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4828,7 +4828,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4865,7 +4865,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4910,7 +4910,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4947,7 +4947,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4992,7 +4992,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5029,7 +5029,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.6d0lkjaslc.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5074,7 +5074,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5111,7 +5111,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5148,7 +5148,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.l1zq2mitth.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5193,7 +5193,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5230,7 +5230,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5275,7 +5275,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.03hjc8e09r.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5320,7 +5320,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5357,7 +5357,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.48y08845bh.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5402,7 +5402,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5439,7 +5439,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5484,7 +5484,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5521,7 +5521,7 @@
     },
     {
       "Route": "SalesWebMvc.2ud5c12wyf.bundle.scp.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesWebMvc.bundle.scp.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesWebMvc.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5566,7 +5566,7 @@
     },
     {
       "Route": "SalesWebMvc.2ud5c12wyf.styles.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesWebMvc.styles.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesWebMvc.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5611,7 +5611,7 @@
     },
     {
       "Route": "SalesWebMvc.bundle.scp.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesWebMvc.bundle.scp.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesWebMvc.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5648,7 +5648,7 @@
     },
     {
       "Route": "SalesWebMvc.styles.css",
-      "AssetFile": "D:\\Projetos\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesWebMvc.styles.css",
+      "AssetFile": "D:\\Projetos C#\\SalesWebMvc\\SalesWebMvc\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SalesWebMvc.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

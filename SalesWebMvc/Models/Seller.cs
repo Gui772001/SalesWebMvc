@@ -27,8 +27,8 @@ namespace SalesWebMvc.Models
 
     [Required(ErrorMessage = "A data de nascimento é obrigatória")]
     [Display(Name = "Birth Date")]
-    [DataType(DataType.Date)]
-    public DateTime BirthDate { get; set; }
+     [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
+        public DateTime BirthDate { get; set; }
 
     [ForeignKey("DepartmentId")]
         public Department Department { get; set; }

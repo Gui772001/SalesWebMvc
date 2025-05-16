@@ -30,7 +30,7 @@ namespace SalesWebMvc.Services
                 // Adiciona o objeto (Seller) à base de dados
                 _context.Add(obj);
 
-                // Salva as alterações no banco de dados
+                
                 await _context.SaveChangesAsync();
 
                 // Confirma a transação se tudo ocorrer bem
