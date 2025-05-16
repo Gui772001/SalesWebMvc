@@ -16,3 +16,21 @@ Sistema web desenvolvido em **ASP.NET Core** para gerenciar vendedores e departa
 - Entity Framework Core
 - SQL Server / MySQL (configuração flexível para diferentes bancos)
 - Bootstrap (para estilização responsiva e moderna)
+
+
+## Telas do Sistema
+
+### Página Inicial  
+![Página Inicial](imagens/pagina-inicial.png)
+
+### Página de Vendedores  
+![Página de Vendedores](imagens/pagina-vendedores.png)
+
+### Página de Edição de Vendedores  
+![Edição de Vendedores](imagens/pagina-vendedores-edit.png)
+
+### Página de Departamentos  
+![Página de Departamentos](imagens/pagina-departamentos.png)
+
+### Página de Edição de Departamentos  
+![Edição de Departamentos](imagens/pagina-departamentos-edit.png)
