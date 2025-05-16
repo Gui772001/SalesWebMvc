@@ -1,4 +1,4 @@
-# Sistema de Gestão de Vendedores e Departamentos
+![pagina-departamentos](https://github.com/user-attachments/assets/df7dbbd8-5f7f-490e-b33c-135a6d583ccd)# Sistema de Gestão de Vendedores e Departamentos
 
 Sistema web desenvolvido em **ASP.NET Core** para gerenciar vendedores e departamentos, com funcionalidades completas para cadastro, edição, exclusão e visualização de vendas.
 
